@@ -32,3 +32,4 @@ Text encoded in a binary format, decoded text and compression ratio:
 ![static huffman](static-huffman.PNG)
 
 As can be seen, string is compressed to about 6% of the original string which was given as input.
+# Huffman-Coding
